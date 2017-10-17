@@ -2,8 +2,8 @@
     <string name="app_name">Mega Jeux V1.0</string>
     <string name="TextTitre">Saisir une valeur entre 1 et 100 :</string>
     <string name="compare">COMPARER</string>
-    <string name="strGreater">veuillez saisir une valeur plus grande</string>
-    <string name="strLower">Veuillez saisir une valeur plus petite</string>
+    <string name="strGreater">veuillez saisir une valeur plus grande.</string>
+    <string name="strLower">Veuillez saisir une valeur plus petite.</string>
     <string name="strongratulations">Félicitations</string>
     <string name="strMessage">Félicitations, vous avez trouvé en %d coups. Voulez-vous recommencer ?</string>
     <string name="strYes">Oui</string>
