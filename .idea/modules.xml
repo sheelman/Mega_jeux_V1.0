@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mega_jeux_V1.0.iml" filepath="$PROJECT_DIR$/Mega_jeux_V1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Myfirstapplication.iml" filepath="$PROJECT_DIR$/Myfirstapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

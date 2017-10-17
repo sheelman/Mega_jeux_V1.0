@@ -4,7 +4,7 @@
     <string name="compare">COMPARER</string>
     <string name="strGreater">veuillez saisir une valeur plus grande</string>
     <string name="strLower">Veuillez saisir une valeur plus petite</string>
-    <string name="strongratulations">Félisitations</string>
+    <string name="strongratulations">Félicitations</string>
     <string name="strMessage">Félicitations, vous avez trouvé en %d coups. Voulez-vous recommencer ?</string>
     <string name="strYes">Oui</string>
     <string name="strNo">Non</string>
